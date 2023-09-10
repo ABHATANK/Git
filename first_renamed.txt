@@ -1,0 +1,4 @@
+This is the first version 
+I want this to go in commit 2
+HII
+this is 2nd commit with skipped stagin area
